@@ -1,3 +1,4 @@
+<script>
 const game = document.getElementById("game");
 const gameBoard = document.getElementById("game-board");
 const gameStart = document.getElementById('game-start')
@@ -990,3 +991,4 @@ function handleTouchMove(e) {
     xDown = null;
     yDown = null;
 };
+</script>
