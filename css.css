@@ -1,3 +1,4 @@
+<script>
 :root {
   --yellow-sprite-x: ;
   --yellow-sprite-y: ;
@@ -910,3 +911,4 @@ pacman-wrapper{
     visibility: hidden;
   }
 }
+</script>
